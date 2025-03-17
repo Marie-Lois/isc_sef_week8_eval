@@ -1,4 +1,5 @@
 function string(sentence) {
-    console.log(sentence.reverse)
+    sentence = ["Good morning"]
+    console.log(sentence[-1, 0])
 }
-string("Good Morning
+string("Good Morning")
